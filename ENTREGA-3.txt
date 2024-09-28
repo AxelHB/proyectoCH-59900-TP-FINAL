@@ -1,0 +1,27 @@
+Entregable N°3 y N°4:
+
+Deberás hacer entrega de tu proyecto donde aparezca: 
+
+1- la estructura final de la web.
+
+2- Efectuar el estilo final de la web.
+
+3- Realizar una correcta implementación de SASS. (imports / variables / anidaciones / ...).
+
+4- En la raiz 2 carpetas nuevas:
+    a. Carpeta de sass con su archivo: sass/style.scss
+    b. Carpeta de css con su archivo: css/style.css
+IMPORTANTE: RECORDÁ CAMBIAR LA RUTA DEL CSS PARA CADA INDEX. (YA QUE REORGANIZAMOS LOS ARCHIVOS)
+
+5- Meta tags.
+
+6- .gitignore dentro escribiremos en la primer linea /node_modules y en la segunda a package.json . Esto lo haremos
+para ocultar archivos propios del proyecto.
+
+7 - Generar la carga en un repositorio en GitHub. (Incluyendo GitHub Pages).
+
+
+ACLARACIONES:
+1- Todos los archivos ordenados en carpetas. (INDENTADO Y SEMÁNTICA).
+2- En la raiz del proyecto solamente suelto el (index.html).
+3- RECOMENDACIÓN, comentar toda estructura y parte del proyecto para no perderse.

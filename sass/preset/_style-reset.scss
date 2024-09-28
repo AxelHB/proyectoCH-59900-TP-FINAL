@@ -1,0 +1,29 @@
+/*ESTILOS RESET CSS*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none; 
+    color: black;  
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#body {
+    display: flex;
+    flex-direction: column;
+    max-width: 1400px;
+}
+
+#main {
+    margin-top: 10px;
+    min-height: 100vh;
+    padding: 0 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
