@@ -20,6 +20,8 @@ para ocultar archivos propios del proyecto.
 
 7 - Generar la carga en un repositorio en GitHub. (Incluyendo GitHub Pages).
 
+8-...
+9-...
 
 ACLARACIONES:
 1- Todos los archivos ordenados en carpetas. (INDENTADO Y SEMÁNTICA).
